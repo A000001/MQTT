@@ -1,0 +1,7 @@
+mqtt:
+  clientId: defaultId
+  topic: test
+  username: admin
+  password: 123456
+  timeout: 3
+  url: tcp://localhost:1883
